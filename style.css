@@ -1792,12 +1792,7 @@ p {
     display: none;
   }
   header {
-    position: fixed;
-    top: 0;
-    z-index: 1000;
-    margin: auto;
     width: 100vw;
-    height: 44px;
   }
   .icon-1 {
     margin-right: 600px;
@@ -1982,12 +1977,7 @@ p {
     display: none;
   }
   header {
-    position: fixed;
-    top: 0;
-    z-index: 1000;
-    margin: auto;
     width: 100vw;
-    height: 44px;
   }
   .icon-1 {
     margin-right: 200px;
